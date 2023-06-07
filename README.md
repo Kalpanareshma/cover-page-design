@@ -1,4 +1,4 @@
-# cover-page-design
+# EX-06 COVER-PAGE-DESIGN
 ## AIM:
 To develop a website to display the cover page design of a book
 
